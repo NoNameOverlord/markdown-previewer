@@ -55,9 +55,7 @@ And here. | Okay. | I think we get it.
     breaks: true
   })
 
-  function editing(){
-    setWriting
-  }
+  
   
 
   function getMarkdownText() {
